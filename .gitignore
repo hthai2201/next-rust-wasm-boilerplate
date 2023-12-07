@@ -35,3 +35,10 @@ yarn-error.log*
 
 #storybook
 storybook-static
+
+#wasm
+**/dist
+**/target
+**/pkg
+**/wasm-pkg
+**/wasm-pack.log
